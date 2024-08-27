@@ -41,18 +41,6 @@ h1 {
   margin-bottom: 40px;
 }
 
-.grid-wrapper {
-  height: 100%;
-  width: 100%;
-  margin-bottom: 10px;
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  justify-content: center;
-  align-items: center;
-  gap: 0;
-  position: relative;
-}
-
 .img-container {
   height: 250px;
   width: 170px;
@@ -77,12 +65,6 @@ h1 {
   font-size: 30px;
   margin-top: 10px;
 }
-
-/* .section-2,
-.section-3,
-.section-4 {
-  width: 50%;
-} */
 
 .section-2 {
   display: flex;
